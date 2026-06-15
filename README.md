@@ -197,6 +197,21 @@ This project demonstrates practical implementation of:
 
 ## Screenshots
 
+### Welcome Screen
+
+![Welcome Screen](screenshot/welcomescreen.png)
+
+### Gameplay
+
+![Gameplay](screenshot/game1.png)
+![Gameplay](screenshot/gamw2.png)
+![Gameplay](screenshot/game3.png)
+
+
+### Game Over Screen
+
+![Game Over Screen](screenshot/winscreen.png)
+
 
 ---
 
