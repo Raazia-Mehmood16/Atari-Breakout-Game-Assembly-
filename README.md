@@ -201,10 +201,15 @@ This project demonstrates practical implementation of:
 
 ![Welcome Screen](screenshot/welcomescreen.png)
 
-### Gameplay
+### Gameplay1
 
 ![Gameplay](screenshot/game1.png)
-![Gameplay](screenshot/gamw2.png)
+
+### Gameplay2
+
+![Gameplay](screenshot/game2.png)
+
+### Gameplay3
 ![Gameplay](screenshot/game3.png)
 
 
