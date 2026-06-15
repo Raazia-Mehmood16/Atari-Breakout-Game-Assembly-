@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Atari Breakout - Assembly Game</title>
+
+    <script src="https://js-dos.com/6.22/current/js-dos.js"></script>
+
+    <style>
+        body{
+            background:#111;
+            color:white;
+            text-align:center;
+            font-family:Arial,sans-serif;
+        }
+
+        h1{
+            margin-top:20px;
+        }
+
+        #dos{
+            width:960px;
+            height:600px;
+            margin:auto;
+            border:3px solid white;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Atari Breakout (x86 Assembly)</h1>
+
+<p>
+Developed by Raazia Mehmood (24F-0614)
+and Sabeeka (24F-0654)
+</p>
+
+<div id="dos"></div>
+
+<script>
+Dos(document.getElementById("dos"), {
+    url: "breakout.zip",
+});
+</script>
+
+</body>
+</html>
