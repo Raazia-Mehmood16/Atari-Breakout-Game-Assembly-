@@ -232,7 +232,8 @@ https://raazia-mehmood16.github.io/Atari-Breakout-Game-Assembly-/
 
 ----
 
-##linkedin
+## Linkedin
 
 www.linkedin.com/in/raazia-mehmood-221995324
+
 must follow
